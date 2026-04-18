@@ -21,14 +21,17 @@ I study how generative models fail—and what those failures reveal about semant
 ## 🧠 Current Work
 MRI super-resolution using latent diffusion, exploring adaptive convolutions and Swin attention for structure-aware reconstruction.
 
-   🔬 What I’m Exploring
-   -Structural degradation across diffusion timesteps
+## 🔬 What I’m Exploring
+
+Through my work on MRI super-resolution, I’ve been exploring:
+
+- How structural information degrades across diffusion timesteps
+- Whether latent spaces preserve anatomical consistency in 3D reconstruction  
+- How failure modes can act as signals for reconstruction quality  
    
-   -Latent space alignment for anatomical consistency
-   
-   -Failure modes as signals for reconstruction quality
 
 🚀 Next Directions
+
 -Learning feature representations where model failures become informative signals for improving generative behaviour.
 
 -Preliminary exploration of learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
@@ -36,6 +39,7 @@ MRI super-resolution using latent diffusion, exploring adaptive convolutions and
 ## 📌 Featured Work
 
 🔗 3D MRI Latent Diffusion for Super-Resolution  
+
 [GitHub Repo](https://github.com/Saeshu/SWIN_LDM_MRI_SR)
 
 ## 🧰 Tools
