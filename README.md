@@ -23,11 +23,14 @@ Current Projects:
   
   🔬 What I’m Exploring
   -Structural degradation across diffusion timesteps
+
   -Latent space alignment for anatomical consistency
+  
   -Failure modes as signals for reconstruction quality
 
 🚀 Next Directions
 -Learning feature representations where model failures become informative signals for improving generative behaviour.
+
 -Preliminary exploration of learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
 
 ## 📌 Featured Work
