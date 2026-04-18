@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 -->
 I study how generative models fail—and what those failures reveal about semantic structure in images.
 
-Current Projects:
-   -MRI super-resolution using latent diffusion, exploring adaptive convolutions and Swin attention for structure-aware reconstruction
-  
-  🔬 What I’m Exploring
-  -Structural degradation across diffusion timesteps
+## 🧠 Current Work
+MRI super-resolution using latent diffusion, exploring adaptive convolutions and Swin attention for structure-aware reconstruction.
 
-  -Latent space alignment for anatomical consistency
-  
-  -Failure modes as signals for reconstruction quality
+   🔬 What I’m Exploring
+   -Structural degradation across diffusion timesteps
+   
+   -Latent space alignment for anatomical consistency
+   
+   -Failure modes as signals for reconstruction quality
 
 🚀 Next Directions
 -Learning feature representations where model failures become informative signals for improving generative behaviour.
