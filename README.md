@@ -32,9 +32,9 @@ Through my work on MRI super-resolution, I’ve been exploring:
 
 🚀 Next Directions
 
--Learning feature representations where model failures become informative signals for improving generative behaviour.
+- Learning feature representations where model failures become informative signals for improving generative behaviour.
 
--Preliminary exploration of learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
+- Preliminary exploration of learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
 
 ## 📌 Featured Work
 
