@@ -1,6 +1,6 @@
 ### To Understand How Things Work, You Must Understand How They Fail
 
-### Hi there, this is Saeshwaran👋
+### Hi, I'm Saeshwaran👋
 
 <!--
 **Saeshu/Saeshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,14 +27,14 @@ Through my work on MRI super-resolution, I’ve been exploring:
 
 - How structural information degrades across diffusion timesteps?
 - Whether latent spaces preserve anatomical consistency in 3D reconstruction?  
-- How failure modes can act as signals for reconstruction quality?  
+- How can failure modes act as signals for reconstruction quality?  
    
 
 🚀 Next Directions
 
-- Learning feature representations where model failures become informative signals for improving generative behaviour.
+- Learning feature representations where model failures become usable signals for improving generative behaviour.
 
-- Preliminary exploration of learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
+- Exploring learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
 
 ## 📌 Featured Work
 
