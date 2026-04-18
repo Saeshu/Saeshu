@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I study how generative models fail—and what those failures reveal about semantic structure in images.
+I’m interested in understanding not just how models work—but how and why they fail.
 
 ## 🧠 Current Work
 MRI super-resolution using latent diffusion, exploring adaptive convolutions and Swin attention for structure-aware reconstruction.
