@@ -25,9 +25,9 @@ MRI super-resolution using latent diffusion, exploring adaptive convolutions and
 
 Through my work on MRI super-resolution, I’ve been exploring:
 
-- How structural information degrades across diffusion timesteps
-- Whether latent spaces preserve anatomical consistency in 3D reconstruction  
-- How failure modes can act as signals for reconstruction quality  
+- How structural information degrades across diffusion timesteps?
+- Whether latent spaces preserve anatomical consistency in 3D reconstruction?  
+- How failure modes can act as signals for reconstruction quality?  
    
 
 🚀 Next Directions
