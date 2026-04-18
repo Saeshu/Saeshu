@@ -1,3 +1,5 @@
+###To Understand How Things Work, You Must Understand How They Fail
+
 ### Hi there, this is Saeshwaran👋
 
 <!--
@@ -14,4 +16,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an undergraduate researcher working to understand failure modes as effective signals for semantic-level image interpretation.  
+I study how generative models fail—and what those failures reveal about semantic structure in images.
+
+Current Projects:
+   -MRI super-resolution using latent diffusion, exploring adaptive convolutions and Swin attention for structure-aware reconstruction
+  
+  🔬 What I’m Exploring
+  -Structural degradation across diffusion timesteps
+  -Latent space alignment for anatomical consistency
+  -Failure modes as signals for reconstruction quality
+
+🚀 Next Directions
+-Learning feature representations where model failures become informative signals for improving generative behaviour.
+-Preliminary exploration of learned non-Euclidean feature spaces for capturing complex structure and failure modes in representations.
+
+## 📌 Featured Work
+
+🔗 3D MRI Latent Diffusion for Super-Resolution  
+[GitHub Repo](https://github.com/Saeshu/SWIN_LDM_MRI_SR)
+
+## 🧰 Tools
+
+- PyTorch, MONAI  
+- 3D CNNs, Swin Attention
+- Diffusion Models (DDPM / DDIM)
+
+## 📫 Reach Out
+
+- LinkedIn: [(https://www.linkedin.com/in/saeshwaran/)]  
+- Email: [saeshwaran2004@gmail.com]
+
