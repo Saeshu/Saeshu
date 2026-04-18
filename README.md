@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Saeshwaran👋
 
 <!--
 **Saeshu/Saeshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an undergraduate researcher working to understand failure modes as effective signals for semantic-level image interpretation.  
